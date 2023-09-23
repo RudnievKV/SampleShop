@@ -1,0 +1,1 @@
+We have an Azure Functions Web app - an online Shop backend, with in-memory DB
